@@ -4,26 +4,21 @@ using namespace std;
 
 int main()
 {
-    // Max-heap (default behavior)
     priority_queue<int> pq;
 
+    // Insert elements into the priority queue
     pq.push(10);
+    pq.push(30);
     pq.push(20);
-    pq.push(5);
 
-    cout << "Top element (Max-heap): " << pq.top() << endl;
+    cout << "Top element (max priority): " << pq.top() << endl;
 
+    // Pop the top element
     pq.pop();
-    cout << "Top after pop: " << pq.top() << endl;
+    cout << "Top element after pop: " << pq.top() << endl;
 
-    // Min-heap
-    priority_queue<int, vector<int>, greater<int>> min_pq;
-
-    min_pq.push(10);
-    min_pq.push(20);
-    min_pq.push(5);
-
-    cout << "Top element (Min-heap): " << min_pq.top() << endl;
+    // Size of the priority queue
+    cout << "Size of priority queue: " << pq.size() << endl;
 
     return 0;
 }

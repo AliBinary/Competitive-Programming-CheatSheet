@@ -6,24 +6,28 @@ int main()
 {
     queue<int> q;
 
-    // Pushing elements
-    q.push(100);
-    q.push(200);
-    q.push(300);
+    // Push elements onto the queue
+    q.push(10);
+    q.push(20);
+    q.push(30);
+    cout << "Front element: " << q.front() << endl;
 
-    // Accessing front and back
-    cout << "Front: " << q.front() << endl;
-    cout << "Back: " << q.back() << endl;
-
-    // Popping elements
+    // Pop an element from the queue
     q.pop();
-    cout << "Front after pop: " << q.front() << endl;
-
-    // Checking if queue is empty
-    cout << "Is queue empty? " << (q.empty() ? "Yes" : "No") << endl;
+    cout << "Front element after pop: " << q.front() << endl;
 
     // Size of the queue
-    cout << "Queue size: " << q.size() << endl;
+    cout << "Size of queue: " << q.size() << endl;
+
+    // Check if the queue is empty
+    if (q.empty())
+    {
+        cout << "Queue is empty." << endl;
+    }
+    else
+    {
+        cout << "Queue is not empty." << endl;
+    }
 
     return 0;
 }

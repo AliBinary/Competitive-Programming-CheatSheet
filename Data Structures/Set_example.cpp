@@ -4,23 +4,34 @@ using namespace std;
 
 int main()
 {
-    set<int> s = {1, 2, 3, 4, 5};
+    set<int> s;
 
-    // Adding elements
-    s.insert(6);
-    s.insert(3); // Duplicate, won't be added
+    // Insert elements
+    s.insert(10);
+    s.insert(20);
+    s.insert(15);
 
-    // Removing elements
-    s.erase(3);
-
-    // Checking if an element exists
-    cout << "Is 3 in set? " << (s.count(3) ? "Yes" : "No") << endl;
-
-    // Iterating through set
+    // Print elements in sorted order
     cout << "Set elements: ";
-    for (int x : s)
-        cout << x << " ";
+    for (int num : s)
+        cout << num << " ";
     cout << endl;
+
+    // Check if an element exists
+    if (s.find(15) != s.end())
+    {
+        cout << "15 is in the set." << endl;
+    }
+
+    // Remove an element
+    s.erase(10);
+    cout << "Set after erase: ";
+    for (int num : s)
+        cout << num << " ";
+    cout << endl;
+
+    // Size of the set
+    cout << "Size of set: " << s.size() << endl;
 
     return 0;
 }

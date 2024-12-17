@@ -4,25 +4,30 @@ using namespace std;
 
 int main()
 {
-    stack<int> stk;
+    stack<int> s;
 
-    // Pushing elements
-    stk.push(10);
-    stk.push(20);
-    stk.push(30);
+    // Push elements onto the stack
+    s.push(10);
+    s.push(20);
+    s.push(30);
+    cout << "Top element after push: " << s.top() << endl;
 
-    // Accessing top element
-    cout << "Top element: " << stk.top() << endl;
+    // Pop an element from the stack
+    s.pop();
+    cout << "Top element after pop: " << s.top() << endl;
 
-    // Popping elements
-    stk.pop();
-    cout << "Top after pop: " << stk.top() << endl;
-
-    // Checking if stack is empty
-    cout << "Is stack empty? " << (stk.empty() ? "Yes" : "No") << endl;
+    // Check if stack is empty
+    if (s.empty())
+    {
+        cout << "Stack is empty." << endl;
+    }
+    else
+    {
+        cout << "Stack is not empty." << endl;
+    }
 
     // Size of the stack
-    cout << "Stack size: " << stk.size() << endl;
+    cout << "Size of stack: " << s.size() << endl;
 
     return 0;
 }
