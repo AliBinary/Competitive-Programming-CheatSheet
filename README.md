@@ -21,8 +21,56 @@ The repository is organized by key algorithmic topics, sorted by priority and le
 
 ### 3. Dynamic Programming
 
--   Fibonacci, Knapsack, Longest Common Subsequence (LCS), Edit Distance, etc.
--   (Optimization algorithms for solving complex problems efficiently.)
+-   **Fibonacci Sequence (Memoization):**
+    Efficient calculation of Fibonacci numbers using memoization.
+
+-   **0/1 Knapsack Problem:**
+    Maximizing value with given weight constraints.
+
+-   **Minimum Coin Change:**
+    Finding the minimum number of coins for a given total.
+
+-   **Longest Common Subsequence (LCS):**
+    Finding the longest subsequence common to two sequences.
+
+-   **Edit Distance:**
+    Calculating the minimum operations to convert one string to another.
+
+-   **Longest Increasing Subsequence (LIS):**
+    Finding the longest increasing subsequence in a sequence of numbers.
+
+-   **Matrix Chain Multiplication:**
+    Minimizing the cost of multiplying matrices.
+
+-   **Rod Cutting Problem:**
+    Maximizing profit by cutting and selling rod pieces.
+
+-   **Subset Sum Problem:**
+    Checking if a subset exists with a given sum.
+
+-   **Egg Dropping Problem:**
+    Minimizing trials to find the critical floor.
+
+-   **Partition Problem:**
+    Dividing a set into two subsets with equal sums.
+
+-   **Longest Palindromic Subsequence (LPS):**
+    Finding the longest palindromic subsequence in a string.
+
+-   **Word Break Problem:**
+    Checking if a string can be segmented into dictionary words.
+
+-   **Regular Expression Matching:**
+    Matching strings with patterns using wildcards.
+
+-   **Optimal Binary Search Tree:**
+    Minimizing search cost in a binary search tree.
+
+-   **2 Player Game:**
+    Calculating the optimal strategy for turn-based games.
+
+-   **Counting Paths in Matrix:**
+    Counting unique paths in a grid from top-left to bottom-right.
 
 ### 4. Greedy Algorithms
 
