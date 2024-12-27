@@ -1,4 +1,4 @@
-#  ☀️Welcome to Competitive Programming Repository☀️
+# ☀️Welcome to Competitive Programming Repository☀️
 
 This repository is a collection of essential algorithms and data structures designed to help you prepare for competitive programming contests. It includes solutions to a variety of problems, from basic concepts to advanced topics, each optimized for efficiency and clarity. Whether you're just starting out or looking to sharpen your skills, this repository will serve as a valuable resource in your journey to mastering programming challenges. Dive in, explore, and elevate your problem-solving abilities!
 
@@ -10,16 +10,16 @@ The repository is divided into several folders, each corresponding to a major to
 
 ```
 Competitive-Programming-CheatSheet
-Basic_Data_Structures
-├── vector.cpp
-├── stack.cpp
-├── queue.cpp
-├── deque.cpp
-├── priority_queue.cpp
-├── set.cpp
-├── map.cpp
-├── unordered_map.cpp
-└── list.cpp
+├── Basic_Data_Structures
+│   ├── vector.cpp
+│   ├── stack.cpp
+│   ├── queue.cpp
+│   ├── deque.cpp
+│   ├── priority_queue.cpp
+│   ├── set.cpp
+│   ├── map.cpp
+│   ├── unordered_map.cpp
+│   └── list.cpp
 ├── Graph_Algorithms
 │   ├── bfs.cpp
 │   ├── dfs.cpp
@@ -59,12 +59,12 @@ Basic_Data_Structures
 │   ├── line_intersection.cpp
 │   ├── distance_between_points.cpp
 │   └── closest_pair_of_points.cp
-Advanced_Data_Structures
-├── disjoint_set.cpp
-├── segment_tree.cpp
-├── fenwick_tree.cpp
-├── trie.cpp
-└── avl_tree.cpp
+├── Advanced_Data_Structures
+│   ├── disjoint_set.cpp
+│   ├── segment_tree.cpp
+│   ├── fenwick_tree.cpp
+│   ├── trie.cpp
+│   └── avl_tree.cpp
 ├── Bit_Manipulation
 │   ├── xor_tricks.cpp
 │   ├── bit_counting.cpp
@@ -87,6 +87,7 @@ Advanced_Data_Structures
 ## 🚀 How to Use
 
 1. Clone the repository:
+
 ```bash
    git clone https://github.com/your-username/competitive-programming-cheatsheet.git
 ```
