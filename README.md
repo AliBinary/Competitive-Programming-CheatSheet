@@ -11,15 +11,15 @@ The repository is divided into several folders, each corresponding to a major to
 ```
 Competitive-Programming-CheatSheet
 ├── Basic_Data_Structures
-│   ├── vector_example.cpp
-│   ├── stack_example.cpp
-│   ├── queue_example.cpp
 │   ├── deque_example.cpp
-│   ├── priority_queue_example.cpp
-│   ├── set_example.cpp
+│   ├── list_example.cpp
 │   ├── map_example.cpp
+│   ├── priority_queue_example.cpp
+│   ├── queue_example.cpp
+│   ├── set_example.cpp
+│   ├── stack_example.cpp
 │   ├── unordered_map_example.cpp
-│   └── list_example.cpp
+│   └── vector_example.cpp
 ├── Graph_Algorithms
 │   ├── bfs.cpp
 │   ├── dfs.cpp
