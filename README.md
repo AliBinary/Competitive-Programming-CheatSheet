@@ -10,18 +10,16 @@ The repository is divided into several folders, each corresponding to a major to
 
 ```
 Competitive-Programming-CheatSheet
-├── Basic_Data_Structures
-│   ├── array.cpp
-│   ├── stack.cpp
-│   ├── queue.cpp
-│   ├── linked_list.cpp
-│   ├── hash_map.cpp
-│   ├── pair.cpp
-│   ├── matrix.cpp
-│   ├── deque.cpp
-│   ├── set.cpp
-│   ├── priority_queue.cpp
-│   └── bitset.cpp
+Basic_Data_Structures
+├── vector.cpp
+├── stack.cpp
+├── queue.cpp
+├── deque.cpp
+├── priority_queue.cpp
+├── set.cpp
+├── map.cpp
+├── unordered_map.cpp
+└── list.cpp
 ├── Graph_Algorithms
 │   ├── bfs.cpp
 │   ├── dfs.cpp
@@ -61,12 +59,12 @@ Competitive-Programming-CheatSheet
 │   ├── line_intersection.cpp
 │   ├── distance_between_points.cpp
 │   └── closest_pair_of_points.cp
-├── Advanced_Data_Structures
-│   ├── segment_tree.cpp
-│   ├── fenwick_tree.cpp
-│   ├── trie.cpp
-│   ├── disjoint_set.cpp
-│   └── sparse_table.cpp
+Advanced_Data_Structures
+├── disjoint_set.cpp
+├── segment_tree.cpp
+├── fenwick_tree.cpp
+├── trie.cpp
+└── avl_tree.cpp
 ├── Bit_Manipulation
 │   ├── xor_tricks.cpp
 │   ├── bit_counting.cpp
