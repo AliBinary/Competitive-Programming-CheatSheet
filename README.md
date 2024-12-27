@@ -64,7 +64,16 @@ Competitive-Programming-CheatSheet
 │   ├── segment_tree.cpp
 │   ├── fenwick_tree.cpp
 │   ├── trie.cpp
-│   └── avl_tree.cpp
+│   ├── avl_tree.cpp
+│   ├── red_black_tree.cpp
+│   ├── splay_tree.cpp
+│   ├── k_d_tree.cpp
+│   ├── binomial_heap.cpp
+│   ├── fibonacci_heap.cpp
+│   ├── skip_list.cpp
+│   ├── b_tree.cpp
+│   ├── interval_tree.cpp
+│   ├── treap.cpp
 ├── Bit_Manipulation
 │   ├── xor_tricks.cpp
 │   ├── bit_counting.cpp
