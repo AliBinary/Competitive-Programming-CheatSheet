@@ -1,4 +1,4 @@
-# Welcome to Competitive Programming Repository
+# ☀️Welcome to Competitive Programming Repository☀️
 
 This repository is a collection of essential algorithms and data structures designed to help you prepare for competitive programming contests. It includes solutions to a variety of problems, from basic concepts to advanced topics, each optimized for efficiency and clarity. Whether you're just starting out or looking to sharpen your skills, this repository will serve as a valuable resource in your journey to mastering programming challenges. Dive in, explore, and elevate your problem-solving abilities!
 
@@ -10,18 +10,18 @@ The repository is divided into several folders, each corresponding to a major to
 
 ```
 Competitive-Programming-CheatSheet
+│
 ├── Basic_Data_Structures
-│   ├── array.cpp
-│   ├── stack.cpp
-│   ├── queue.cpp
-│   ├── linked_list.cpp
-│   ├── hash_map.cpp
-│   ├── pair.cpp
-│   ├── matrix.cpp
-│   ├── deque.cpp
-│   ├── set.cpp
-│   ├── priority_queue.cpp
-│   └── bitset.cpp
+│   ├── deque_example.cpp
+│   ├── list_example.cpp
+│   ├── map_example.cpp
+│   ├── priority_queue_example.cpp
+│   ├── queue_example.cpp
+│   ├── set_example.cpp
+│   ├── stack_example.cpp
+│   ├── unordered_map_example.cpp
+│   └── vector_example.cpp
+│
 ├── Graph_Algorithms
 │   ├── bfs.cpp
 │   ├── dfs.cpp
@@ -30,12 +30,14 @@ Competitive-Programming-CheatSheet
 │   ├── mst_kruskal.cpp
 │   ├── mst_prim.cpp
 │   └── topological_sort.cpp
+│
 ├── Sorting_and_Searching
 │   ├── quick_sort.cpp
 │   ├── merge_sort.cpp
 │   ├── binary_search.cpp
 │   ├── stl_sort.cpp
 │   └── heap_sort.cpp
+│
 ├── Dynamic_Programming
 │   ├── knapsack.cpp
 │   ├── lis.cpp
@@ -43,6 +45,7 @@ Competitive-Programming-CheatSheet
 │   ├── subset_sum.cpp
 │   ├── longest_palindromic_subsequence.cpp
 │   └── coin_change.cpp
+│
 ├── String_Algorithms
 │   ├── kmp.cpp
 │   ├── rabin_karp.cpp
@@ -50,34 +53,50 @@ Competitive-Programming-CheatSheet
 │   ├── suffix_array.cpp
 │   ├── manacher.cpp
 │   └── trie.cpp
+│
 ├── Number_Theory
 │   ├── gcd_lcm.cpp
 │   ├── modular_exponentiation.cpp
 │   ├── sieve_of_eratosthenes.cpp
 │   ├── crt.cpp
 │   └── prime_factors.cpp
+│
 ├── Geometry
 │   ├── convex_hull.cpp
 │   ├── line_intersection.cpp
 │   ├── distance_between_points.cpp
 │   └── closest_pair_of_points.cp
+│
 ├── Advanced_Data_Structures
-│   ├── segment_tree.cpp
-│   ├── fenwick_tree.cpp
-│   ├── trie.cpp
+│   ├── avl_tree.cpp
+│   ├── binomial_heap.cpp
+│   ├── b_tree.cpp
 │   ├── disjoint_set.cpp
-│   └── sparse_table.cpp
+│   ├── fenwick_tree.cpp
+│   ├── fibonacci_heap.cpp
+│   ├── interval_tree.cpp
+│   ├── k_d_tree.cpp
+│   ├── red_black_tree.cpp
+│   ├── segment_tree.cpp
+│   ├── skip_list.cpp
+│   ├── splay_tree.cpp
+│   ├── treap.cpp
+│   └── trie.cpp
+│
 ├── Bit_Manipulation
+│   ├── Bit_Manipulation
 │   ├── xor_tricks.cpp
 │   ├── bit_counting.cpp
 │   ├── subset_generation.cpp
 │   └── bitset_operations.cpp
+│
 ├── Problem_Templates
 │   ├── graph_traversal.cpp
 │   ├── subset_problems.cpp
 │   ├── optimization_problems.cpp
 │   ├── greedy_algorithms.cpp
 │   └── sliding_window.cpp
+│
 └── Debugging_Tips
     ├── fast_io.cpp
     ├── debugging_tips.md
@@ -89,6 +108,7 @@ Competitive-Programming-CheatSheet
 ## 🚀 How to Use
 
 1. Clone the repository:
+
 ```bash
    git clone https://github.com/your-username/competitive-programming-cheatsheet.git
 ```
