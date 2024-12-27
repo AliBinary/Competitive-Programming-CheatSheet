@@ -15,7 +15,13 @@ Competitive-Programming-CheatSheet
 │   ├── stack.cpp
 │   ├── queue.cpp
 │   ├── linked_list.cpp
-│   └── hash_map.cpp
+│   ├── hash_map.cpp
+│   ├── pair.cpp
+│   ├── matrix.cpp
+│   ├── deque.cpp
+│   ├── set.cpp
+│   ├── priority_queue.cpp
+│   └── bitset.cpp
 ├── Graph_Algorithms
 │   ├── bfs.cpp
 │   ├── dfs.cpp
