@@ -1,4 +1,4 @@
-# Welcome to Competitive Programming Repository
+#  ☀️Welcome to Competitive Programming Repository☀️
 
 This repository is a collection of essential algorithms and data structures designed to help you prepare for competitive programming contests. It includes solutions to a variety of problems, from basic concepts to advanced topics, each optimized for efficiency and clarity. Whether you're just starting out or looking to sharpen your skills, this repository will serve as a valuable resource in your journey to mastering programming challenges. Dive in, explore, and elevate your problem-solving abilities!
 
