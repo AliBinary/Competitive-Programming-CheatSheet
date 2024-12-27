@@ -70,11 +70,17 @@ Competitive-Programming-CheatSheet
 ├── Advanced_Data_Structures
 │   ├── avl_tree.cpp
 │   ├── binomial_heap.cpp
+│   ├── b_tree.cpp
 │   ├── disjoint_set.cpp
 │   ├── fenwick_tree.cpp
 │   ├── fibonacci_heap.cpp
+│   ├── interval_tree.cpp
+│   ├── k_d_tree.cpp
+│   ├── red_black_tree.cpp
 │   ├── segment_tree.cpp
 │   ├── skip_list.cpp
+│   ├── splay_tree.cpp
+│   ├── treap.cpp
 │   └── trie.cpp
 │
 ├── Bit_Manipulation
