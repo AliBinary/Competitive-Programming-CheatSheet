@@ -81,7 +81,9 @@ Competitive-Programming-CheatSheet
 │   ├── skip_list.cpp
 │   ├── splay_tree.cpp
 │   ├── treap.cpp
-│   ├── trie.cpp
+│   └── trie.cpp
+│
+├── Bit_Manipulation
 │   ├── Bit_Manipulation
 │   ├── xor_tricks.cpp
 │   ├── bit_counting.cpp
