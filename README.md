@@ -1,137 +1,110 @@
-# Competitive Programming C++ Notebook 🚀
+# Competitive Programming Cheat Sheet Repository
 
-This repository is a collection of essential C++ algorithms, templates, and code snippets specifically designed for competitive programming contests. Whether you're preparing for coding competitions or simply looking for efficient algorithms to solve common problems, this notebook is your quick reference guide.
-
----
-
-## 📚 Contents
-
-The repository is organized by key algorithmic topics, sorted by priority and learning difficulty. Each section includes detailed explanations, example code snippets, and techniques commonly used in programming contests.
-
-### 1. Data Structures (STL in C++)
-
--   Vectors, Stacks, Queues, Deques, Linked Lists, Priority Queues, Sets, Maps, Unordered Sets/Maps, Bitsets, Hash Maps, Arrays
--   (Standard C++ containers that provide efficient data structures for solving a wide range of problems.)
-
-### 2. Basic Algorithms
-
--   Sorting Algorithms: Merge Sort, Quick Sort, Bubble Sort, etc.
--   Searching Algorithms: Binary Search, Linear Search
--   (Essential algorithms for searching and sorting that are fundamental for solving problems.)
-
-### 3. Dynamic Programming
-
--   **Fibonacci Sequence (Memoization):**
-    Efficient calculation of Fibonacci numbers using memoization.
-
--   **0/1 Knapsack Problem:**
-    Maximizing value with given weight constraints.
-
--   **Minimum Coin Change:**
-    Finding the minimum number of coins for a given total.
-
--   **Longest Common Subsequence (LCS):**
-    Finding the longest subsequence common to two sequences.
-
--   **Edit Distance:**
-    Calculating the minimum operations to convert one string to another.
-
--   **Longest Increasing Subsequence (LIS):**
-    Finding the longest increasing subsequence in a sequence of numbers.
-
--   **Matrix Chain Multiplication:**
-    Minimizing the cost of multiplying matrices.
-
--   **Rod Cutting Problem:**
-    Maximizing profit by cutting and selling rod pieces.
-
--   **Subset Sum Problem:**
-    Checking if a subset exists with a given sum.
-
--   **Egg Dropping Problem:**
-    Minimizing trials to find the critical floor.
-
--   **Partition Problem:**
-    Dividing a set into two subsets with equal sums.
-
--   **Longest Palindromic Subsequence (LPS):**
-    Finding the longest palindromic subsequence in a string.
-
--   **Word Break Problem:**
-    Checking if a string can be segmented into dictionary words.
-
--   **Regular Expression Matching:**
-    Matching strings with patterns using wildcards.
-
--   **Optimal Binary Search Tree:**
-    Minimizing search cost in a binary search tree.
-
--   **2 Player Game:**
-    Calculating the optimal strategy for turn-based games.
-
--   **Counting Paths in Matrix:**
-    Counting unique paths in a grid from top-left to bottom-right.
-
-### 4. Greedy Algorithms
-
--   Activity Selection, Huffman Coding, Fractional Knapsack, etc.
--   (Algorithms for problems that can be solved by making the locally optimal choice at each step.)
-
-### 5. Graph Algorithms
-
--   BFS, DFS, Dijkstra, Kruskal, Prim, Bellman-Ford, etc.
--   (Graph algorithms for pathfinding, minimum spanning trees, and graph traversal.)
-
-### 6. String Algorithms
-
--   KMP, Rabin-Karp, Manacher’s Algorithm, Suffix Arrays, etc.
--   (Efficient algorithms for string matching and manipulation.)
-
-### 7. Number Theory
-
--   GCD, LCM, Modular Arithmetic, Fermat’s Little Theorem, etc.
--   (Number theory algorithms for solving mathematical problems and optimizing computations.)
-
-### 8. Computational Geometry
-
--   Convex Hull, Line Intersection, Closest Pair of Points, etc.
--   (Geometric algorithms for solving problems related to points, lines, and 2D geometry.)
+Welcome to the **Competitive Programming Cheat Sheet** repository! 🎉 This repository is designed to help programmers participating in competitive programming contests, such as ICPC, Codeforces, AtCoder, and others, to quickly access and learn essential algorithms, data structures, and problem-solving techniques. Each section is well-organized with example codes and templates for easy understanding and implementation.
 
 ---
 
-## 📝 How to Use
+## 📂 Repository Structure
 
-1.  Browse the Sections: Navigate through the sections to find the algorithm or technique you need.
-2.  Copy-Paste Code Snippets: Use the provided code snippets directly in your problems.
-3.  Contribute: Have an additional algorithm or improvement? Feel free to fork the repository and submit a pull request.
+The repository is divided into several folders, each corresponding to a major topic in competitive programming. Here's the structure:
+
+```
+├── Basic_Data_Structures
+│   ├── array.cpp
+│   ├── stack.cpp
+│   ├── queue.cpp
+│   └── hash_map.cpp
+├── Graph_Algorithms
+│   ├── bfs.cpp
+│   ├── dfs.cpp
+│   ├── dijkstra.cpp
+│   ├── bellman_ford.cpp
+│   └── mst_kruskal.cpp
+├── Sorting_and_Searching
+│   ├── quick_sort.cpp
+│   ├── merge_sort.cpp
+│   ├── binary_search.cpp
+│   └── stl_sort.cpp
+├── Dynamic_Programming
+│   ├── knapsack.cpp
+│   ├── lis.cpp
+│   ├── lcs.cpp
+│   └── subset_sum.cpp
+├── String_Algorithms
+│   ├── kmp.cpp
+│   ├── rabin_karp.cpp
+│   ├── z_algorithm.cpp
+│   └── suffix_array.cpp
+├── Number_Theory
+│   ├── gcd_lcm.cpp
+│   ├── modular_exponentiation.cpp
+│   ├── sieve_of_eratosthenes.cpp
+│   └── crt.cpp
+├── Geometry
+│   ├── convex_hull.cpp
+│   ├── line_intersection.cpp
+│   └── distance_between_points.cpp
+├── Advanced_Data_Structures
+│   ├── segment_tree.cpp
+│   ├── fenwick_tree.cpp
+│   └── trie.cpp
+├── Bit_Manipulation
+│   ├── xor_tricks.cpp
+│   ├── bit_counting.cpp
+│   └── subset_generation.cpp
+├── Problem_Templates
+│   ├── graph_traversal.cpp
+│   ├── subset_problems.cpp
+│   └── optimization_problems.cpp
+└── Debugging_Tips
+    ├── fast_io.cpp
+    └── debugging_tips.md
+```
 
 ---
 
-## 💡 Topics Covered
+## 📜 Topics Covered
 
--   Dynamic Programming: Knapsack, LCS, Fibonacci, and more.
--   Greedy Algorithms: Activity Selection, Huffman Coding, and others.
--   Graph Algorithms: BFS, DFS, Dijkstra, and more.
--   Number Theory: GCD, LCM, Modular Exponentiation, etc.
--   Bit Manipulation: XOR, AND, OR, shifts.
--   Advanced Data Structures: Segment Trees, Tries, Union-Find.
--   String Matching Algorithms: KMP, Rabin-Karp, etc.
--   Computational Geometry: Convex Hull, Line Intersection.
+1. **Basic Data Structures**: Arrays, Stacks, Queues, Hash Maps, etc.
+2. **Graph Algorithms**: BFS, DFS, Dijkstra, MST (Kruskal, Prim), etc.
+3. **Sorting and Searching**: Quick Sort, Merge Sort, Binary Search, STL utilities, etc.
+4. **Dynamic Programming**: Knapsack, LIS, LCS, Subset Sum, etc.
+5. **String Algorithms**: KMP, Rabin-Karp, Z-Algorithm, Suffix Arrays, etc.
+6. **Number Theory**: GCD, Modular Arithmetic, Sieve of Eratosthenes, CRT, etc.
+7. **Geometry**: Convex Hull, Line Intersection, Distance Calculations, etc.
+8. **Advanced Data Structures**: Segment Trees, Fenwick Trees, Tries, etc.
+9. **Bit Manipulation**: XOR tricks, Bit Counting, Subset Generation, etc.
+10. **Problem Templates**: Ready-to-use templates for common problem types.
+11. **Debugging Tips**: Fast I/O techniques and debugging strategies.
 
 ---
 
-## 🚀 Contribution Guidelines
+## 🚀 How to Use
 
-1.  Fork this repository.
-2.  Add your algorithm or fix any existing issues.
-3.  Submit a pull request with a clear description of your changes.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/competitive-programming-cheatsheet.git
+   ```
+2. Navigate to the desired topic folder.
+3. Use the provided code templates or examples to solve your problems.
+4. Customize the templates as per your problem’s requirements.
+
+---
+
+## 🤝 Contributions
+
+Feel free to contribute to this repository! To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature/bugfix.
+3. Commit your changes and push them to your fork.
+4. Open a pull request.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This repository is licensed under the MIT License. Feel free to use and distribute the code as per the license terms.
 
 ---
 
-Happy coding and good luck with your contests 😎✌️
+Happy Coding! 🚀
