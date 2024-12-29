@@ -1,10 +1,9 @@
 # ☀️Welcome to Competitive Programming Repository☀️
 
-![](https://img.shields.io/badge/ICPC-%20Preparation-blue.svg) ![](https://img.shields.io/badge/CP-%20Cheatsheet-olive.svg) ![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Completed-6%2F10-orange.svg) [![GitHub](https://img.shields.io/github/license/ar-pavel/CP-CheatSheet?color=blue)](https://github.com/AliBinary/Ultimate-Competitive-Programming-Guide/blob/main/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/AliBinary/Ultimate-Competitive-Programming-Guide) ![GitHub forks](https://img.shields.io/github/forks/AliBinary/Ultimate-Competitive-Programming-Guide)
+![https://icpc.global/](https://img.shields.io/badge/ICPC-%20Preparation-blue.svg) ![](https://img.shields.io/badge/CP-%20Cheatsheet-olive.svg) ![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Completed-6%2F10-orange.svg) [![GitHub](https://img.shields.io/github/license/ar-pavel/CP-CheatSheet?color=blue)](https://github.com/AliBinary/Ultimate-Competitive-Programming-Guide/blob/main/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/AliBinary/Ultimate-Competitive-Programming-Guide) ![GitHub forks](https://img.shields.io/github/forks/AliBinary/Ultimate-Competitive-Programming-Guide)
 
 ```
-    Most of the codes have been collected from different sources over internet
-    Feel free to make PR with any missing topic
+    Most of the code has been gathered from various sources on the internet. Feel free to submit a pull request if you notice any missing topics.
 ```
 
 This repository is a collection of essential algorithms and data structures designed to help you prepare for competitive programming contests. It includes solutions to a variety of problems, from basic concepts to advanced topics, each optimized for efficiency and clarity. Whether you're just starting out or looking to sharpen your skills, this repository will serve as a valuable resource in your journey to mastering programming challenges. Dive in, explore, and elevate your problem-solving abilities!
