@@ -1279,7 +1279,9 @@ int main() {
 >
 > query: RMQ O(1)
 >
-> [tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
+> [Frist Tutorial](https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor)
+> [Secend Tutorial](https://cp-algorithms.com/graph/lca.html)
+> [Third Tutorial](https://www.geeksforgeeks.org/find-lca-in-binary-tree-using-rmq/)
 
 ```c++
 // lowest common ancestor LCA
