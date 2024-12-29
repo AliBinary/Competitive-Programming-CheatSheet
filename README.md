@@ -37,6 +37,7 @@ This repository is a collection of essential algorithms and data structures desi
 This repository is licensed under the MIT License. Feel free to use and distribute the code as per the license terms.
 
 ---
+## ⚡ Master the Power of These Algorithms
 
 Code with passion, compete with determination, and let every line bring you closer to your goals 😎✌️
 
