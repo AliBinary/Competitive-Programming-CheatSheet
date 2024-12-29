@@ -8,11 +8,11 @@
             ><img
                 src="https://img.shields.io/badge/CP-%20Cheatsheet-olive.svg"
 />
-<a href="/blob/main/README.md" target="_blank"
+<a href="LICENSE" target="_blank"
             ><img
                 src="https://img.shields.io/badge/licence-MIT-green.svg"
 />
-<a href="#" target="_blank"
+<a href="https://github.com/AliBinary" target="_blank"
             ><img
                 src="https://img.shields.io/badge/Completed-6%2F10-orange.svg"
 />
