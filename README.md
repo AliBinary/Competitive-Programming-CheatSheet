@@ -6347,7 +6347,7 @@ long long sq(long long a) {
 
 ### 8.6 C++ Big Integer
 
-> [Documentation](http://lightoj.com/article_show.php?article=1004)
+> [Source --> codeforces](https://codeforces.com/blog/entry/74200?locale=en)
 
 Here we are giving a Big Integer library which has most of the operations including some mathematical and conditional operations. Mainly we have focused on some important facts.
 
