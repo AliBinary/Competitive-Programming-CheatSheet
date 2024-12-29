@@ -813,6 +813,7 @@ while (three_priority_queue.size() != 0) {
 // three_priority_queue.top() = 2
 // three_priority_queue.top() = 1
 ```
+---
 
 ## 2. Advanced Data Structures
 
@@ -3202,6 +3203,8 @@ struct BloomFilterSimilar {
 };
 ```
 
+---
+
 ## 3. Methodology
 
 ### 3.0 Greedy
@@ -3317,6 +3320,8 @@ for (int i = 0; i < sequence.size(); i++) {
 
 #### 3.5.1 Subset generation
 
+---
+
 ## 4. String
 
 ### 4.1 KMP
@@ -3406,6 +3411,8 @@ int main () {
     return 0;
 }
 ```
+
+---
 
 ## 5. Graph
 
@@ -4610,6 +4617,8 @@ struct Graph {
 
 > place holder
 
+---
+
 ## 6. Number + Mathematics
 
 ### 6.1 BigInteger + BigDecimal
@@ -5650,6 +5659,8 @@ int main() {
 }
 ```
 
+---
+
 ## 7. Geometry
 
 ### 7.1 2-Dimension Space
@@ -6184,6 +6195,8 @@ struct triangle {
 };
 ```
 
+---
+
 ## 8. Tricks + Miscellaneous
 
 ### 8.1 Bit Manipulation
@@ -6334,7 +6347,13 @@ long long sq(long long a) {
 
 ### 8.6 C++ Big Integer
 
-> [Documentation](http://lightoj.com/article_show.php?article=1004)
+> [Tutorial --> geeksforgeeks](https://www.geeksforgeeks.org/bigint-big-integers-in-c-with-example)
+> 
+> [Source --> codeforces](https://codeforces.com/blog/entry/74200?locale=en)
+> 
+> [Source --> codeforces](https://codeforces.com/blog/entry/100082?locale=ru)
+> 
+> [Source --> codeforces](https://codeforces.com/blog/entry/22566)
 
 Here we are giving a Big Integer library which has most of the operations including some mathematical and conditional operations. Mainly we have focused on some important facts.
 
