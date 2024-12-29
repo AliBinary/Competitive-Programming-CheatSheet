@@ -1279,11 +1279,11 @@ int main() {
 >
 > query: RMQ O(1)
 >
-> [Frist Tutorial](https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor)
-> 
-> [Secend Tutorial](https://cp-algorithms.com/graph/lca.html)
+> [Tutorial --> cp-algorithms](https://cp-algorithms.com/graph/lca.html)
 >
-> [Third Tutorial](https://www.geeksforgeeks.org/find-lca-in-binary-tree-using-rmq/)
+> [Tutorial --> geeksforgeeks](https://www.geeksforgeeks.org/find-lca-in-binary-tree-using-rmq/)
+>
+> [Tutorial --> topcoder](https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor)
 
 ```c++
 // lowest common ancestor LCA
@@ -5545,9 +5545,11 @@ void make_nCr(){
 
 > A game that is not impartial is called a partisan game.
 >
-> [source: wiki](https://en.wikipedia.org/wiki/Impartial_game)
+> [Source --> wikipedia](https://en.wikipedia.org/wiki/Impartial_game)
 >
-> [tutorial: topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/)
+> [Tutorial --> geeksforgeeks](https://www.geeksforgeeks.org/some-tricks-to-solve-problems-on-impartial-games/)
+>
+> [Tutorial --> topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/algorithm-games/)
 
 ##### 6.4.1.1 Nim Game
 
