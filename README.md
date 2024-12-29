@@ -37,6 +37,7 @@ This repository is a collection of essential algorithms and data structures desi
 This repository is licensed under the MIT License. Feel free to use and distribute the code as per the license terms.
 
 ---
+
 ## ⚡ Master the Power of These Algorithms
 
 Code with passion, compete with determination, and let every line bring you closer to your goals 😎✌️
@@ -46,6 +47,7 @@ Code with passion, compete with determination, and let every line bring you clos
 **Table of Contents**
 
 -   [1. Basic](#1-basic)
+
     -   [1.1 C++ Solution Template](#11-c-solution-template)
         -   [1.1.1 Optional include list](#111-optional-include-list)
         -   [1.1.2 Debug Helper](#112-debug-helper)
@@ -86,7 +88,9 @@ Code with passion, compete with determination, and let every line bring you clos
         -   [1.4.6 Double-ended Queue](#146-double-ended-queue)
         -   [1.4.7 Stack](#147-stack)
         -   [1.4.8 Priority Queue](#148-priority-queue)
+
 -   [2. Advanced Data Structures](#2-advanced-data-structures)
+
     -   [2.1 Heap](#21-heap)
     -   [2.2 Tree](#22-tree)
         -   [2.2.0 Tree Traversal](#220-tree-traversal)
@@ -112,7 +116,9 @@ Code with passion, compete with determination, and let every line bring you clos
     -   [2.9 Union-find Set](#29-union-find-set)
         -   [2.9.1 Union-find Set - application](#291-union-find-set---application)
     -   [2.10 Bloom Filter (?) (Similar)](#210-bloom-filter--similar)
+
 -   [3. Methodology](#3-methodology)
+
     -   [3.0 Greedy](#30-greedy)
         -   [3.0.1 Job Sequencing with Deadlines](#301-job-sequencing-with-deadlines)
         -   [3.0.2 Fractional Knapsack](#302-fractional-knapsack)
@@ -128,11 +134,15 @@ Code with passion, compete with determination, and let every line bring you clos
         -   [3.4.4 Iterative deepening search (binary increase/decrease)](#344-iterative-deepening-search-binaryincrease/decrease)
     -   [3.5 Brute Force](#35-brute-force)
         -   [3.5.1 Subset generation](#351-subset-generation)
+
 -   [4. String](#4-string)
+
     -   [4.1 KMP](#41-kmp)
     -   [4.2 Boyer-Moore](#42-boyer-moore)
     -   [4.3 Longest palindromic substring (Manacher's algorithm)](#43-longest-palindromic-substring-manachers-algorithm)
+
 -   [5. Graph](#5-graph)
+
     -   [5.1 Graph Structure](#51-graph-structure)
     -   [5.2 Minimium Spanning Tree](#52-minimium-spanning-tree)
         -   [5.2.1 Prim's](#521-prims)
@@ -157,7 +167,9 @@ Code with passion, compete with determination, and let every line bring you clos
     -   [5.7 Topological Sort](#57-topological-sort)
     -   [5.8 Euler Cycle/Path, Hamilton Cycle/Path](#58-euler-cyclepath-hamilton-cyclepath)
     -   [5.9 find negative (weight) Cycle on a graph](#59-find-negative-weight-cycle-on-a-graph)
+
 -   [6. Number + Mathematics](#6-number--mathematics)
+
     -   [6.1 BigInteger + BigDecimal](#61-biginteger--bigdecimal)
         -   [6.1.1 C++ Big Integer](#611-c-big-integer)
         -   [6.1.2 The Java Approach](#612-the-java-approach)
@@ -188,6 +200,7 @@ Code with passion, compete with determination, and let every line bring you clos
         -   [6.4.1 Impartial Combinatorial Game](#641-impartial-combinatorial-game)
             -   [6.4.1.1 Nim Game](#6411-nim-game)
             -   [6.4.1.1 Composite Games – Sprague-Grundy Theorem and Nim Value](#6411-composite-games--sprague-grundy-theorem-and-nim-value)
+
 -   [7. Geometry](#7-geometry)
 
     -   [7.1 2-Dimension Space](#71-2-dimension-space)
@@ -212,6 +225,8 @@ Code with passion, compete with determination, and let every line bring you clos
     -   [8.4 Fast Log](#84-fast-log)
     -   [8.5 Squre Root](#85-squre-root)
     -   [8.6 C++ Big Integer](#86-c-big-integer)
+
+---
 
 ## 1. Basic
 
