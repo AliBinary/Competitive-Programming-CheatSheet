@@ -1,9 +1,33 @@
 # ☀️Welcome to Competitive Programming Repository☀️
 
-![https://icpc.global/](https://img.shields.io/badge/ICPC-%20Preparation-blue.svg) ![](https://img.shields.io/badge/CP-%20Cheatsheet-olive.svg) ![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Completed-6%2F10-orange.svg) [![GitHub](https://img.shields.io/github/license/ar-pavel/CP-CheatSheet?color=blue)](https://github.com/AliBinary/Ultimate-Competitive-Programming-Guide/blob/main/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/AliBinary/Ultimate-Competitive-Programming-Guide) ![GitHub forks](https://img.shields.io/github/forks/AliBinary/Ultimate-Competitive-Programming-Guide)
+<a href="https://icpc.global/" target="_blank"
+            ><img
+                src="https://img.shields.io/badge/ICPC-%20Preparation-blue.svg"
+/>
+<a href="" target="_blank"
+            ><img
+                src="https://img.shields.io/badge/CP-%20Cheatsheet-olive.svg"
+/>
+<a href="" target="_blank"
+            ><img
+                src="https://img.shields.io/badge/licence-MIT-green.svg"
+/>
+<a href="" target="_blank"
+            ><img
+                src="https://img.shields.io/badge/Completed-6%2F10-orange.svg"
+/>
+<a href="" target="_blank"
+            ><img
+                src="https://img.shields.io/github/stars/AliBinary/Ultimate-Competitive-Programming-Guide"
+/>
+<a href="" target="_blank"
+            ><img
+                src="https://img.shields.io/github/forks/AliBinary/Ultimate-Competitive-Programming-Guide"
+/>
 
 ```
-    Most of the code has been gathered from various sources on the internet. Feel free to submit a pull request if you notice any missing topics.
+    Most of the code has been gathered from various sources on the internet.
+    Feel free to submit a pull request if you notice any missing topics.
 ```
 
 This repository is a collection of essential algorithms and data structures designed to help you prepare for competitive programming contests. It includes solutions to a variety of problems, from basic concepts to advanced topics, each optimized for efficiency and clarity. Whether you're just starting out or looking to sharpen your skills, this repository will serve as a valuable resource in your journey to mastering programming challenges. Dive in, explore, and elevate your problem-solving abilities!
@@ -5344,7 +5368,7 @@ int power_modulo(int n, int p, int M) {
 
 #### 6.3.16 Fast Fourier Transform FFT
 
-> [Reference 1](www.gatevin.moe/acm/fft算法学习笔记/)
+> [Reference 1](www.gatevin.moe/acm/fft 算法学习笔记/)
 >
 > [Reference 2](https://github.com/marioyc/ACM-ICPC-Library/blob/master/math/fft.cpp)
 >
