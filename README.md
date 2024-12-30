@@ -3655,7 +3655,7 @@ struct Graph {
 
 ### 5.3 Shortest Path
 
-#### 5.3.1 任意两点
+#### 5.3.1 any two points (Similar to the Floyd-Warshall algorithm)
 
 ```
 for (k)
